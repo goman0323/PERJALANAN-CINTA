@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,6 @@
     <a href="selamat-datang.html">Klik di sini untuk ucapan selamat datang</a>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
