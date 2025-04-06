@@ -36,9 +36,9 @@
     </style>
 </head>
 <body>
-    <h1>Selamat datang di Website Saya!</h1>
-    <p>Untuk melihat ucapan selamat datang, klik link berikut:</p>
-    <a href="selamat-datang.html">Klik di sini untuk ucapan selamat datang</a>
+    <h1>Selamat datang di website GOMAN!</h1>
+    <p>Untuk mengetahui lebih dalam, klik link berikut:</p>
+    <a href="selamat-datang.html">Klik disini kalo gak senang</a>
 </body>
 </html>
 <html lang="id">
@@ -79,7 +79,7 @@
     </style>
 </head>
 <body>
-    <h1>Selamat datang di WEB BANG IBNU!</h1>
+    <h1>AKU AKAN BUAT ALBUM BUAT COWO U MILD MENGGUNAKAN LINK INI</h1>
     <p>Terima kasih telah mengunjungi halaman ini.</p>
     <a href="index.html">Kembali ke Halaman Utama</a>
 </body>
