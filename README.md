@@ -121,7 +121,7 @@
 <body>
 
   <h1>🎉 HBD AYANG, Cintaku 💖</h1>
-  <img src="https://i.imgur.com/0KfbF0R.jpg" alt="Foto Romantis">
+  <img src="[https://i.imgur.com/0KfbF0R.jpg" alt="Foto Romantis](https://i.postimg.cc/yxBrHbL9/ASTI.jpg)">
   <p>
     Hari ini adalah hari spesial untuk seseorang yang paling aku sayangi.  
     Terima kasih sudah hadir dalam hidupku dan membuat setiap harinya lebih bermakna.  
