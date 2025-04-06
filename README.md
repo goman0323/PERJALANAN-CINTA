@@ -36,9 +36,9 @@
     </style>
 </head>
 <body>
-    <h1>Selamat datang di website GOMAN!</h1>
-    <p>Untuk mengetahui lebih dalam, klik link berikut:</p>
-    <a href="selamat-datang.html">Klik disini kalo gak senang</a>
+    <h1>MET PAGI AYANG!</h1>
+    <p>APAKAH AYANG UDAH MAKAN JIKA BELUM KLIK DISINI:</p>
+    <a href="selamat-datang.html">TEKAN DISINI TEKAN YA JANGAN RABA</a>
 </body>
 </html>
 <html lang="id">
@@ -79,12 +79,11 @@
     </style>
 </head>
 <body>
-    <h1>HALO AYANG</h1>
-    <p>Terima kasih telah mengunjungi halaman ini.</p>
+    <h1>INI NANTI UNTUK HARI ULANG TAHUNG AYANG</h1>
+    <p>BIAR MENGGLONYA AYANG.</p>
     <a href="index.html">LIHAT</a>
 </body>
 </html>
-[Uploading HBD.<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -131,4 +130,3 @@
 
 </body>
 </html>
-html…]()
