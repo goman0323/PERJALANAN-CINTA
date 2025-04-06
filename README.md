@@ -79,9 +79,9 @@
     </style>
 </head>
 <body>
-    <h1>AKU AKAN BUAT ALBUM BUAT COWO U MILD MENGGUNAKAN LINK INI</h1>
+    <h1>HALO AYANG</h1>
     <p>Terima kasih telah mengunjungi halaman ini.</p>
-    <a href="index.html">Kembali ke Halaman Utama</a>
+    <a href="index.html">LIHAT</a>
 </body>
 </html>
 [Uploading HBD.<!DOCTYPE html>
@@ -120,7 +120,7 @@
 </head>
 <body>
 
-  <h1>🎉 Selamat Ulang Tahun, Cintaku 💖</h1>
+  <h1>🎉 HBD AYANG, Cintaku 💖</h1>
   <img src="https://i.imgur.com/0KfbF0R.jpg" alt="Foto Romantis">
   <p>
     Hari ini adalah hari spesial untuk seseorang yang paling aku sayangi.  
